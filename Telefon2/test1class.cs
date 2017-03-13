@@ -9,5 +9,6 @@ namespace Telefon2
     class test1class
     {
         //Test ekleme ahmet
+        //Buradaki kodları tekrar düzenleyelim.
     }
 }
