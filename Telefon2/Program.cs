@@ -12,6 +12,7 @@ namespace Telefon2
         {
             //Selam Git 2
             // 3. gönderim. Pull request
+            //Yeni Kodlamalar eklendi.
         }
     }
 }
