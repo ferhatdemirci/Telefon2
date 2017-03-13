@@ -9,5 +9,6 @@ namespace Telefon2
     class Personel
     {
         //Personel bilgileri
+        //Yeni Değişiklikleri burada görelim.
     }
 }
