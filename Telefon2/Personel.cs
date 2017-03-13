@@ -10,5 +10,6 @@ namespace Telefon2
     {
         //Personel bilgileri
         //Yeni Değişiklikleri burada görelim.
+        //Personel için pull request talebi
     }
 }
