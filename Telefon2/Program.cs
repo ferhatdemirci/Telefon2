@@ -11,6 +11,7 @@ namespace Telefon2
         static void Main(string[] args)
         {
             //Selam Git 2
+            // 3. gönderim. Pull request
         }
     }
 }
