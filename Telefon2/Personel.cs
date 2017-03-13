@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Telefon2
 {
-    class Program
+    class Personel
     {
-        static void Main(string[] args)
-        {
-            //Selam Git 2
-        }
+        //Personel bilgileri
     }
 }
